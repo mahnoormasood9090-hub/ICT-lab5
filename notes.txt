@@ -1,1 +1,2 @@
 Git is a disturbuted version control system that tracks changes in source code
+ Git helps track changes and source code
